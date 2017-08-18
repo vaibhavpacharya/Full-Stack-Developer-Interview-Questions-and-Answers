@@ -411,10 +411,13 @@ m = c^d mod n = m^(e*d) mod n = m^(e*d mod phi(n)) mod n = m
 *[Back to top](#toc)*
 
 ## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 - [MIT](https://github.com/vaibhavpacharya/Full-Stack-Developer-Interview-Questions-and-Answers/blob/master/LICENSE)
 ***
 ## Contact Me
 - **Gmail**			:	vaibhav.ach@gmail.com
 - **Facebook**		:	https://www.facebook.com/vaibhav.acharya.18
-- **Twitter**		:	https://twitter.com/IAmVaibhav1993
+- [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]() **Twitter**		:	https://twitter.com/IAmVaibhav1993
 - **Github**		:	https://github.com/vaibhavpacharya
